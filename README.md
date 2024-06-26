@@ -1,2 +1,2 @@
 # Numerical-Analysis
-Numerical Analysis course repo. ill upload here random tasks from the course that me and my teammates did.
+Numerical Analysis course repo. I'll upload here all kinds of tasks from the course that me and my team will do.
