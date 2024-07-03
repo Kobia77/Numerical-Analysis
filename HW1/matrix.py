@@ -1,3 +1,8 @@
+# work by: 
+# Kobi Alen -318550985
+# Matan Kahlon - 316550458
+# Lior Engel - 315006783
+
 matrix = [[1,-1,-2],[2,-3,-5],[-1,3,5]]
 
 def print_matrix(matrix):
