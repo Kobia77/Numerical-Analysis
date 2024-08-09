@@ -1,7 +1,8 @@
 #Kobi Alen - 318550985
 #Matan Kahlon - 316550458
-#Een Cohen - 318351004
-#
+#Eedn Cohen - 318351004
+#David Derf - 204423198
+#Nir Hazan - 209500016
 import numpy as np
 def linearEquation(pt1,pt2,xf):
     one=float(pt1[1]-pt2[1])
